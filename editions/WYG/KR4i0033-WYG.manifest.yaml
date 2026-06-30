@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR4i0033/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4i0033/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 誠齋詩話
+  date: '2015-08-25 00:45:22.786465'
+  source:
+    repository: kanripo
+    path: KR4i0033
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4i0033_000-WYG.yaml, hash: 'sha256:035754f733bdaf234335080477873f5d364bc3241c84297411b49d11410353a2'}
+  - {seq: 1, filename: KR4i0033_001-WYG.yaml, hash: 'sha256:0f48121092e882561fbba9db4fcdbadded57f208e228bb8d9d569d7f440e2d1a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4i0033_000-WYG.markers.yaml, hash: 'sha256:2463e704445633e28af257c45cc90bc05894d7ab17ccbc055379cf8b02676d0c'}
+  - {seq: 1, role: markers, filename: assets/KR4i0033_001-WYG.markers.yaml, hash: 'sha256:946692696f9f765e1b06c282ccc1176431e13e79aba3577dc7f2787d687c2eac'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4i0033_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 336
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4i0033_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 11901
+  label: 誠齋詩話
+  type: section
+  level: 1
+hash: sha256:964db528148d4fd3527cdd063ca099be90bc4a02f97187a67b09cb80a5384f35
