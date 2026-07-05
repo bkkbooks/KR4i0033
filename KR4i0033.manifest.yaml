@@ -20,11 +20,11 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR4i0033_000.yaml, hash: 'sha256:4463ae41cca321e927ddae5d276ad188ded9f6b4c2230063b3bbf50a5159d36c'}
-  - {seq: 1, filename: KR4i0033_001.yaml, hash: 'sha256:0123300f84f2996a84bb7fe58a43b372766829612e24dc4f38b479442eff2e28'}
+  - {seq: 0, filename: KR4i0033_000.yaml, hash: 'sha256:b83ee700eaa733fd2bf2af0ba6a6e41ced6b2b5e58f6e236276d7c454079379d'}
+  - {seq: 1, filename: KR4i0033_001.yaml, hash: 'sha256:5d391afb9cb5d6c62670d2dd9b70f9ff763ccc638ef0a6669bf9e47f9100f76d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0033_000.markers.yaml, hash: 'sha256:62440242d3776cdaed8e0d1f21a0189d846b0fcea2b189b6392671c29e3e462e'}
-  - {seq: 1, role: markers, filename: assets/KR4i0033_001.markers.yaml, hash: 'sha256:5929e39958dd5957c28bb186c9c190fb494504b2f85d48f6c6143bf6d30f4dd0'}
+  - {seq: 0, role: markers, filename: assets/KR4i0033_000.markers.yaml, hash: 'sha256:8bbd851494322e6af321bdc61fe2d0685a9e9ddd86dd10ad5209409f4556f451'}
+  - {seq: 1, role: markers, filename: assets/KR4i0033_001.markers.yaml, hash: 'sha256:e87480fb35109a0cf8f9adf22c782513735632973efc8eb4722aa21a3cab1566'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,4 @@ table_of_contents:
   label: 誠齋詩話
   type: section
   level: 1
-hash: sha256:6cbfd9bcfa5d1950a370bb5b4575b86c006196570e66ba32f8b5c7b3eb9360f7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ffc4c7fa4553b918f7ec5c6b261dc84384a988cc390ba6337bf30b59510f7ffb
