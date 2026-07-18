@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR4i0033_000-WYG.yaml, hash: 'sha256:035754f733bdaf234335080477873f5d364bc3241c84297411b49d11410353a2'}
   - {seq: 1, filename: KR4i0033_001-WYG.yaml, hash: 'sha256:0f48121092e882561fbba9db4fcdbadded57f208e228bb8d9d569d7f440e2d1a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0033_000-WYG.markers.yaml, hash: 'sha256:2463e704445633e28af257c45cc90bc05894d7ab17ccbc055379cf8b02676d0c'}
-  - {seq: 1, role: markers, filename: assets/KR4i0033_001-WYG.markers.yaml, hash: 'sha256:946692696f9f765e1b06c282ccc1176431e13e79aba3577dc7f2787d687c2eac'}
+  - {seq: 0, role: markers, filename: assets/KR4i0033_000-WYG.markers.yaml, hash: 'sha256:fc300e3777557000eb1ce12fc34ddc2b3c562d183f1a8b768b51462d183682df'}
+  - {seq: 1, role: markers, filename: assets/KR4i0033_001-WYG.markers.yaml, hash: 'sha256:1934385532c5429f42423eb897b465d928b2a35de4ad02f744f637cc743f7263'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 誠齋詩話
   type: section
   level: 1
-hash: sha256:964db528148d4fd3527cdd063ca099be90bc4a02f97187a67b09cb80a5384f35
+hash: sha256:756f1c904890eb3f4035bee5b9339106a15bd5bedb5471229506ab608bcad539
